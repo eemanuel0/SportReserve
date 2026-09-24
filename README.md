@@ -19,6 +19,3 @@ npm install
 npx json-server db.json
 # abrir o index.html no navegador ou usar Live Server
 \`\`\`
-
-## Capturas de tela
-![tela de login](caminho/pra/imagem.png)
