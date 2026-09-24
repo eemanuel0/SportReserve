@@ -1,0 +1,152 @@
+{
+  "reservas": [
+    {
+      "userId": "E0CkV4jx_TE",
+      "sport": "Futsal",
+      "date": "2026-06-17",
+      "time": "18:00",
+      "dur": 60,
+      "local": "Quadra poliesportiva UNEX",
+      "status": "cancelada",
+      "players": "",
+      "id": "NTvVQXpVxLI"
+    },
+    {
+      "userId": "E0CkV4jx_TE",
+      "sport": "Vôlei",
+      "date": "2026-06-17",
+      "time": "18:00",
+      "dur": 60,
+      "local": "Quadra poliesportiva UNEX",
+      "status": "cancelada",
+      "players": "",
+      "id": "e_r5L_C3mTA"
+    },
+    {
+      "userId": "E0CkV4jx_TE",
+      "sport": "Basquete",
+      "date": "2026-06-17",
+      "time": "09:00",
+      "dur": 60,
+      "local": "Quadra poliesportiva UNEX",
+      "status": "confirmada",
+      "players": "pedrin",
+      "id": "nqQ9wzhw__4"
+    },
+    {
+      "userId": "E0CkV4jx_TE",
+      "sport": "Futsal",
+      "date": "2026-06-17",
+      "time": "17:00",
+      "dur": 90,
+      "local": "Quadra poliesportiva UNEX",
+      "status": "confirmada",
+      "players": "",
+      "id": "gvxxpzN6nJ8"
+    },
+    {
+      "userId": "E0CkV4jx_TE",
+      "sport": "Vôlei",
+      "date": "2026-06-17",
+      "time": "15:00",
+      "dur": 60,
+      "local": "Quadra poliesportiva UNEX",
+      "status": "confirmada",
+      "players": "",
+      "id": "2Aw3NcsOexU"
+    },
+    {
+      "userId": "DuPUkvElDqw",
+      "sport": "Futsal",
+      "date": "2026-06-17",
+      "time": "11:00",
+      "dur": 60,
+      "local": "Quadra poliesportiva UNEX",
+      "status": "cancelada",
+      "players": "",
+      "id": "dh3-LcgsMMA"
+    },
+    {
+      "userId": "DuPUkvElDqw",
+      "sport": "Futsal",
+      "date": "2026-06-15",
+      "time": "18:00",
+      "dur": 60,
+      "local": "Quadra poliesportiva UNEX",
+      "status": "cancelada",
+      "players": "",
+      "id": "LyUXf6GJEJA"
+    },
+    {
+      "userId": "DuPUkvElDqw",
+      "sport": "Futsal",
+      "date": "2026-06-27",
+      "time": "09:00",
+      "dur": 60,
+      "local": "Quadra poliesportiva UNEX",
+      "status": "cancelada",
+      "players": "",
+      "id": "yX6uImVuJik"
+    },
+    {
+      "userId": "DuPUkvElDqw",
+      "sport": "Futsal",
+      "date": "2026-06-15",
+      "time": "15:00",
+      "dur": 60,
+      "local": "Quadra poliesportiva UNEX",
+      "status": "cancelada",
+      "players": "",
+      "id": "4JWKt867imI"
+    },
+    {
+      "userId": "DuPUkvElDqw",
+      "sport": "Futsal",
+      "date": "2026-06-15",
+      "time": "08:00",
+      "dur": 60,
+      "local": "Quadra poliesportiva UNEX",
+      "status": "cancelada",
+      "players": "",
+      "id": "GhZcwBai5ms"
+    },
+    {
+      "userId": "E0CkV4jx_TE",
+      "sport": "Futsal",
+      "date": "2026-06-17",
+      "time": "20:00",
+      "dur": 60,
+      "local": "Quadra poliesportiva UNEX",
+      "status": "confirmada",
+      "players": "",
+      "id": "yZKvHbC0Eng"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "name": "Clodoaldo",
+      "email": "clodoaldo@unex.edu.br",
+      "mat": "2024001234",
+      "phone": "",
+      "senha": "123456"
+    },
+    {
+      "id": "E0CkV4jx_TE",
+      "name": "eemanuel",
+      "email": "emanuelnascimento135@gmail.com",
+      "mat": "00000000000",
+      "phone": "77988739837",
+      "senha": "esqueciasenha2"
+    },
+    {
+      "name": "Nobru Apelo",
+      "email": "xxxxxygor@gmail.com",
+      "mat": "20245424424",
+      "phone": "",
+      "senha": "Tecl@do6",
+      "id": "DuPUkvElDqw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
