@@ -13,7 +13,7 @@ Sistema de reserva de quadras esportivas, com autenticação e gerenciamento de 
 
 ## Como rodar localmente
 \`\`\`bash
-git clone https://github.com/eemanoel0/[nome-do-repo].git
+git clone https://github.com/eemanuel0/[nome-do-repo].git
 cd [nome-do-repo]
 npm install
 npx json-server db.json
